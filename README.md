@@ -1,4 +1,4 @@
-# P5 generative art collection
+# Generative art collection
 
 ## Conways Game of Life
 
