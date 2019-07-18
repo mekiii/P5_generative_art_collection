@@ -1,5 +1,6 @@
 let number;
-let urls = [ "0_conways_game/index.html", 
+let urls = [ 
+"0_conways_game/index.html", 
 "1_particles/index.html", 
 "2_voronoi/index.html",
 "3_collatz_conjecture/index.html", 
