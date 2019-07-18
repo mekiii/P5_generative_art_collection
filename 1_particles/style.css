@@ -1,0 +1,28 @@
+.canvasbox {
+    z-index: 2;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    width: 215px;
+    height: 162px;
+}
+
+#videoCanvas {
+    filter:opacity(50%);
+}
+
+video  {
+    filter:opacity(0%);
+}
+
+button {
+    z-index: 3;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+
+html,body {
+    overflow-y:hidden;
+    height:100%;
+}
