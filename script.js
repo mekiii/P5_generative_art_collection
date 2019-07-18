@@ -15,7 +15,7 @@ let urls = [
 
 number = 0;
 slideAnew(-1);
-setInterval(function(){ slideAnew(number); }, 5000)
+setInterval(function(){ slideAnew(number); }, 25000)
 
 
 function slideAnew(num) {
