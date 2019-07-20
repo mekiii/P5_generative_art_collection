@@ -11,9 +11,10 @@ function preload() {
 
 function togglePlay() {
   if (mySound.isPlaying()) {
-    mySound.loop();
-  } else {
     mySound.pause();
+  } else {
+    mySound.loop();
+    
   }
 }
 
@@ -21,6 +22,7 @@ function togglePlay() {
 function setup() {
   frameRate(60);
   let cnv = createCanvas(windowWidth, windowHeight, WEBGL);
+  //cnv.mouseClicked(togglePlay)
   mySound.loop();
   fft = new p5.FFT();
   background(0);

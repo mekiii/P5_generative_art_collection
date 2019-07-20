@@ -67,9 +67,6 @@ function turtle() {
   }
 }
   
-function  updateAngle(num) {
-  angle = map(sin(num), 0, 1, 24,28);
-}
 
 function setup() {
   createCanvas(windowWidth, windowHeight);

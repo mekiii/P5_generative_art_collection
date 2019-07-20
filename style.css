@@ -9,10 +9,10 @@ body {
 
 h1,
 .h1 {
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   font-weight: 400;
   line-height: 2rem;
-  margin-top: 0.5rem;
+  margin-top: 0rem;
   margin-bottom: 0.7rem;
 }
 
@@ -20,8 +20,8 @@ h1,
     background-color: #000;
     z-index: 10;
     position: absolute;
-    width: 210px;
-    bottom: 40px;
+    width: 250px;
+    bottom:-180px;
     right: 40px;
     padding: 20px;
     opacity: 0.7;
@@ -52,4 +52,43 @@ iframe {
     padding: 10px;
     opacity: 0.7;
     font-weight: 600;
+}
+
+#next {
+    position: relative;
+    width: 30px;
+    right: 0;
+    opacity: 0.6;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: none; 
+}
+
+#back {
+    position: relative;
+    width: 30px;
+    left: 0;
+    opacity: 0.6;
+    background-color: rgba(0, 0, 0, 0);
+    border-style: none; 
+    outline: 0;
+}
+
+#next svg {
+    position: absolute;
+    right: 20px;
+}
+
+#back svg {
+    position: absolute;
+    left: 20px;
+}
+
+#back:focus {
+    border-style: none;
+    outline: 0;
+}
+
+#next:focus {
+    border-style: none;
+    outline: 0;
 }

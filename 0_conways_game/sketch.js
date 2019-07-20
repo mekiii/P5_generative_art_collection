@@ -1,6 +1,6 @@
 //Variables
-let CANVASSIZE = 600;
-let FIELDSIZE = 100;
+let CANVASSIZE = 800;
+let FIELDSIZE = 180;
 let CIRCLELENGTH = CANVASSIZE / FIELDSIZE;
 let ELLIPSENUMBER;
 let start;
@@ -11,7 +11,7 @@ let isStopped;
 
 function setup() {
   // put setup code here
-  canvas = createCanvas(CANVASSIZE, CANVASSIZE, SVG);
+  canvas = createCanvas(CANVASSIZE, CANVASSIZE);
   ellipseMode(CORNER);
   frameRate(10);
   setGridRandomly(FIELDSIZE);
