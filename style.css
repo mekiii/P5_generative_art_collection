@@ -3,7 +3,7 @@ body {
     color:#dbe9ed;
     background-color: #000;
     font-size: 0.8rem;
-    line-height: 1.2rem;
+    line-height: 1.3rem;
     font-weight: 300;
     overflow: hidden;
 }
@@ -33,15 +33,15 @@ hr {
     background-color: #000;
     z-index: 10;
     position: absolute;
-    width: 250px;
+    width: 210px;
     right: 40px;
     padding: 20px;
-    opacity: 0.7;
+    opacity: 0.8;
     transition: bottom 0.5s ease-in-out;
 }
 
 .slide_down {
-    bottom:-230px;
+    bottom:-280px;
 }
 
 .slide_up {
@@ -76,6 +76,9 @@ iframe {
 
 #chevron {
     grid-column: 3;
+    margin-top: -5px;
+    width: 24px;
+    height: 24px;
     align-self: center;
     justify-self: center;
     transition: all 0.5s ease-in-out;

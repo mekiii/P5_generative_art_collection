@@ -87,6 +87,7 @@ function setTitle(num) {
     urlTitle =urlTitle.replace(/[0-9]/g, "");
     urlTitle =urlTitle.replace(".", "");
     urlTitle =urlTitle.replace("_", " ");
+    urlTitle = urlTitle.charAt(1).toUpperCase() + urlTitle.slice(2);
     title.innerHTML = urlTitle;
 }
 
@@ -121,14 +122,18 @@ function toggleSliding(){
         console.log("slide_down!")
         contentTile.classList.remove("slide_up");
         contentTile.classList.add("slide_down");
+        chevron.style.opacity = "1.0";
         chevron.style.transform = "rotate(180deg)";
+        chevron.style.transformOrigin ="50% 50%";
 
         isVisible = false;
     }
     else {
         contentTile.classList.remove("slide_down");
         contentTile.classList.add("slide_up");
+        chevron.style.opacity = "0.2";
         chevron.style.transform = "rotate(0deg)";
+        chevron.style.transformOrigin ="50% 50%";
         isVisible = true;
     }
     
