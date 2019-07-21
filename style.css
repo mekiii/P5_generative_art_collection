@@ -5,10 +5,12 @@ body {
     font-size: 0.8rem;
     line-height: 1.2rem;
     font-weight: 300;
+    overflow: hidden;
 }
 
 h1,
 .h1 {
+    grid-column: 1/3;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 2rem;
@@ -16,15 +18,34 @@ h1,
   margin-bottom: 0.7rem;
 }
 
+hr {
+    grid-column: 1/4;
+    display: block; 
+    width: 100%;
+    opacity: 0.2;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-top: 0.5px solid #ccc;
+}
 #name {
+    display: grid;
+    grid-template-columns: 30px auto 30px;
     background-color: #000;
     z-index: 10;
     position: absolute;
     width: 250px;
-    bottom:-180px;
     right: 40px;
     padding: 20px;
     opacity: 0.7;
+    transition: bottom 0.5s ease-in-out;
+}
+
+.slide_down {
+    bottom:-230px;
+}
+
+.slide_up {
+    bottom: 40px ;
 }
 
 iframe {
@@ -44,17 +65,26 @@ iframe {
 }
 
 .nr {
-    background-color: #000;
-    z-index: 10;
-    position: absolute;
-    bottom: 30px;
-    right: 33px;
-    padding: 10px;
-    opacity: 0.7;
-    font-weight: 600;
+    grid-column: 2;
+    align-self: center;
+    justify-self: center;
+}
+
+#content {
+    grid-column: 1/4;
+}
+
+#chevron {
+    grid-column: 3;
+    align-self: center;
+    justify-self: center;
+    transition: all 0.5s ease-in-out;
 }
 
 #next {
+    grid-column: 3;
+    align-self: center;
+    justify-self: center;
     position: relative;
     width: 30px;
     right: 0;
@@ -64,6 +94,9 @@ iframe {
 }
 
 #back {
+    grid-column: 1;
+    align-self: center;
+    justify-self: center;
     position: relative;
     width: 30px;
     left: 0;
@@ -73,14 +106,9 @@ iframe {
     outline: 0;
 }
 
-#next svg {
-    position: absolute;
-    right: 20px;
-}
 
-#back svg {
-    position: absolute;
-    left: 20px;
+svg {
+    fill: #fff;
 }
 
 #back:focus {
@@ -91,4 +119,11 @@ iframe {
 #next:focus {
     border-style: none;
     outline: 0;
+}
+
+a {
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
 }

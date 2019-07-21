@@ -5,6 +5,10 @@ div {
     margin: 30px;
 }
 
+canvas {
+    margin-top: 5%;
+}
+
 body {
     text-align: center;
     font-family: 'Anaheim', sans-serif;

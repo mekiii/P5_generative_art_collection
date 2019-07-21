@@ -14,6 +14,8 @@ let urls = [
     "8_phillotaxis/index.html",
     "9_square/index.html"
 ]
+let isVisible = false;
+
 
 number = 0;
 slideAnew(-1);
@@ -69,13 +71,66 @@ function slideAnew(num) {
     let length = urls.length;
     number = (num + 1) % length;
     let iframe = document.getElementsByClassName("myFrame")[0];
-    let title = document.getElementById("title");
-    let urlTitle = urls[number].split('/')[0];
-    title.innerHTML = urlTitle;
+    setTitle(number);
     iframe.style.opacity = "0";
     iframe.src = urls[number]
     iframe.style.opacity = "1";
     let nav = document.getElementsByClassName("nr")[0];
     let nnum = number + 1
     nav.innerHTML = nnum + "/" + length;
+}
+
+function setTitle(num) {
+    let title = document.getElementById("title");
+    let urlTitle = urls[number].split('/')[0];
+    urlTitle =urlTitle.replace("_", " ");
+    urlTitle =urlTitle.replace(/[0-9]/g, "");
+    urlTitle =urlTitle.replace(".", "");
+    urlTitle =urlTitle.replace("_", " ");
+    title.innerHTML = urlTitle;
+}
+
+let contentTile = document.getElementById("name");
+contentTile.classList.add("slide_down");
+let h1 = document.getElementById("title");
+
+
+h1.addEventListener('click', function() {
+    console.log("clicked content tile!")
+    toggleSliding();
+},false);
+
+
+let content = document.getElementById("content");
+content.addEventListener('click', function() {
+    console.log("clicked content tile!")
+    toggleSliding();
+},false);
+
+
+let chevron = document.getElementById("chevron");
+chevron.addEventListener('click', function() {
+    console.log("clicked content tile!")
+    toggleSliding();
+},false);
+
+
+function toggleSliding(){
+    let chevron = document.getElementById("chevron");
+    if(isVisible){
+        console.log("slide_down!")
+        contentTile.classList.remove("slide_up");
+        contentTile.classList.add("slide_down");
+        chevron.style.transform = "rotate(180deg)";
+
+        isVisible = false;
+    }
+    else {
+        contentTile.classList.remove("slide_down");
+        contentTile.classList.add("slide_up");
+        chevron.style.transform = "rotate(0deg)";
+        isVisible = true;
+    }
+    
+
 }
