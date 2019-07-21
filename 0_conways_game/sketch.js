@@ -38,7 +38,7 @@ function setGridRandomly(gridSize) {
 
 function draw() {
   if (start) {
-    background(0)
+    background(26,57,80)
     drawGrid(grid);
    
     start = false;
@@ -93,7 +93,7 @@ function setNewGrid(myGrid) {
 
 function drawGrid(gridArray) {
   let numberOfdots = 0;
-  background(0);
+  background(26,57,80);
   for (i = 0; i < FIELDSIZE; i++) {
     for (j = 0; j < FIELDSIZE; j++) {
       if (gridArray[i][j] == 1) {
@@ -104,7 +104,7 @@ function drawGrid(gridArray) {
       //drawNeighborText(i,j,NumOfNeighbours);
     }
   }
-  fill(255);
+  fill(230,225,206);
   textSize(18);
   text(numberOfdots, 15, 25);
 }
@@ -113,7 +113,7 @@ function drawGrid(gridArray) {
 function drawDot(row, col) {
   push();
   translate(col * CIRCLELENGTH, row * CIRCLELENGTH);
-  fill(255, 237, 115);
+  fill(230,225,206);
   ellipse(0, 0, CIRCLELENGTH, CIRCLELENGTH);
   pop();
 }

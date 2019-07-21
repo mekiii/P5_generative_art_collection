@@ -22,7 +22,7 @@ slideAnew(-1);
 timer = setInterval(function () {
     slideAnew(number);
     console.log("New interval!")
-}, 25000)
+}, 30000)
 
 document.onkeydown = function (event) {
     switch (event.keyCode) {

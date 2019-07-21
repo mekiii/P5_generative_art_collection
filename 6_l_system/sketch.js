@@ -9,12 +9,6 @@ rules[0] = {
   b: "FF-[-F+F+F]+[+F-F-F]"
 }
 
-/*rules[1] = {
-  a: "X",
-  b: "F+[[X]-X]-F[-FX]+X"
-  //c: "F+[[X]-X]-F[-FX]+X"
-}*/
-
 
 function generate() {
   let nextSentence = "";
@@ -79,13 +73,9 @@ function setup() {
 let counter = 0;
 
 function draw() {
-  counter+= 0.01;
-  // put drawing code here
-  updateAngle(counter);
   turtle();
 }
 
 function mousePressed() {
  generate();
- console.log(sentence); 
 }
