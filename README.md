@@ -68,9 +68,11 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [(as well as his funny speedrun video)](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 - [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
 
-### Visual insights
+### Inspirations and Algorists
 - [Programming Design Systems (lecture by Rune Madsen)](http://printingcode.runemadsen.com/)
 - [Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)
+- [Album covers from Kasuga Record](https://kasuga-records.com/releases/)
+- [Analog Algorithm](https://www.analog-algorithm.com/)
 - [Vera Molnar](http://www.veramolnar.com/)
 - [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
 - [Verostko](http://www.verostko.com/)
