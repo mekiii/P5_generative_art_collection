@@ -12,7 +12,7 @@ The installation is quite simple. After downloading or cloning the repository:
 2. Open the index.html file in a browser. 
 3. Enjoy. 
 
-You can switch between sketches via pressing the arrow keys left and right or by opening the Detailtab on the bottom right and clicking the arrows. 
+You can switch between sketches via pressing the arrow keys left and right or by opening the tab on the bottom right and clicking the arrows. 
 
 ## The sketches 
 ### 0. Conways Game of Life
