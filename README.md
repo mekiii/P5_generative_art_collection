@@ -46,7 +46,7 @@ In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant ste
 
 ### 9. Square
 During this class I wanted to play around with shapes in perspective. Here I started of with sketching a cube in a normal side perspective and experimented with rotation until I was creating an unfolding effect. 
-
+![Square](https://i.imgur.com/k8LNBq6.png)
 
 ### 10. Tiled lines
 Tim Holman's [Generative Artistry website](https://generativeartistry.com/) is great if you want to start with classic patterns. They are so simple and yet beautiful that I had to translate one of his sketches in P5. I highly recommed his generative art speedrun talk, which is available [here](https://www.youtube.com/watch?v=4Se0_w0ISYk). 
