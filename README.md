@@ -62,9 +62,6 @@ Tim Holman's [Generative Artistry website](https://generativeartistry.com/) is g
 ### 11. Typemorphing
 Typemorphing is something I stumbled across during work. There are pretty good ways to vectorize types and play with the shape. 
 
-## Background
-During my last semester I was fulfilling a dream for me: Visualizing aesthetic patterns via code. 
-
 ## Recommended links
 I would not be able to do all these sketches without the help of [pixelkind](https://github.com/pixelkind) and so many free tutorials, inspirations and great books. If you are also interested in this topic, here are some good places to start off:
 
