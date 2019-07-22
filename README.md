@@ -58,9 +58,7 @@ During this class I wanted to play around with shapes in perspective. Here I sta
 
 ### 10. Tiled lines
 Tim Holman's [Generative Artistry website](https://generativeartistry.com/) is great if you want to start with classic patterns. They are so simple and yet beautiful that I had to translate one of his sketches in P5. I highly recommed his generative art speedrun talk, which is available [here](https://www.youtube.com/watch?v=4Se0_w0ISYk). 
-
-### 11. Typemorphing
-Typemorphing is something I stumbled across during work. There are pretty good ways to vectorize types and play with the shape. 
+![Tiled lines](https://i.imgur.com/YHFwxkX.png)
 
 ## Recommended links
 I would not be able to do all these sketches without the help of [pixelkind](https://github.com/pixelkind) and so many free tutorials, inspirations and great books. If you are also interested in this topic, here are some good places to start off:
