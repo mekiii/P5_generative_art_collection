@@ -9,7 +9,7 @@ You can switch between sketches via pressing the arrow keys left and right or by
 ## The sketches 
 ### 0. Conways Game of Life
 The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent.
-![Conways game of life](https://i.imgur.com/74rkACf.gif)
+![Conways game of life](https://i.imgur.com/9HtymUw.png)
 ### 1. Particle System
 Inspired by chapter 4 of the book "Nature of Code" I generated multiple particles, that float randomly on a 2D plane. Whenever each particle detects surrounding particles up to a certain distance, connecting lines will be drawn. Hence a star-like scenery is created. With tensorflow.js there are multiple possibilities to detect body movement without a depending hardware such as Microsoft's kinect. Hence I was curious to try out this new feature and used the handtracking.js library which is based on tensorflow. My goal is to create a fun particle animation where one can interact either with the hand movement or even a full body detection.
 ### 2. Voronoi
