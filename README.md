@@ -16,10 +16,12 @@ Inspired by chapter 4 of the book "Nature of Code" I generated multiple particle
 ### 2. Voronoi
 During my research of beautiful generative arts patterns I was fascinated by the voronoi pattern, that delivers a cell-like structure. Therefore I sketched a jiggling animation with it via P5 and a voronoi library.
 ### 3. Collatz Conjecture
-The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: if the previous term is even, the next term is one half the previous term. If the previous term is odd, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1.
+The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: If the previous term is even, the next term is one half the previous term. If the previous term is odd, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1. Based on this conjecture I used the inverted sequence and tried to visualize it. The green branches represent the even followers, the golden ones represent the odd followers. 
 ### 4. Wave clock
+The real kick was Matt Pearsons tutorial of the wave clock in his book ["Generative Art"](https://www.amazon.de/Generative-Art-Practical-Guide-Processing/dp/1935182625). Using noise and spiralling movements inspired me to create sketches that follow similar patterns. 
 
 ### 5. Spiral rose
+The "Spiral rose" is one example of my inspirations after 
 
 ### 6. L-Systems
 
@@ -45,10 +47,10 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [The Coding Train](https://www.youtube.com/user/shiffman)
 - [Nature of Code by Daniel Shiffman](https://natureofcode.com/)
 - [Generative Artistry by Tim Holman](https://generativeartistry.com/)
-- [As well as his funny speedrun video](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+- [(as well as his funny speedrun video)](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 
 ### Visual insights
-- [Programming design systems lecture by Rune Madsen](http://printingcode.runemadsen.com/)
+- [Programming Design Systems (lecture by Rune Madsen)](http://printingcode.runemadsen.com/)
 - [Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)
 - [Vera Molnar](http://www.veramolnar.com/)
 - [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
