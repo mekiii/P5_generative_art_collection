@@ -3,7 +3,7 @@ This a repository filled with all my explorations all around generative art via 
 
 
 ## Demo
-You can try out the demo [here](https://mekiii.github.io/p5_generative_art_collection/). 
+You can try out the demo [here](https://mekiii.github.io/P5_generative_art_collection/). 
 
 ## Installation
 The installation is quite simple. After downloading or cloning the repository: 
