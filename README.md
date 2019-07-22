@@ -12,6 +12,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 ![Conways game of life](https://i.imgur.com/9HtymUw.png)
 ### 1. Particle System
 Inspired by chapter 4 of the book "Nature of Code" I generated multiple particles, that float randomly on a 2D plane. Whenever each particle detects surrounding particles up to a certain distance, connecting lines will be drawn. Hence a star-like scenery is created. With tensorflow.js there are multiple possibilities to detect body movement without a depending hardware such as Microsoft's kinect. Hence I was curious to try out this new feature and used the handtracking.js library which is based on tensorflow. My goal is to create a fun particle animation where one can interact either with the hand movement or even a full body detection.
+![Particle System](https://camo.githubusercontent.com/f2aa7dd747ece756667816ff20f32d1c2a73f4bd/68747470733a2f2f692e696d6775722e636f6d2f675836734c5a6e2e6a7067)
 ### 2. Voronoi
 During my research of beautiful generative arts patterns I was fascinated by the voronoi pattern, that delivers a cell-like structure. Therefore I sketched a jiggling animation with it via P5 and a voronoi library.
 ### 3. Collatz Conjecture
