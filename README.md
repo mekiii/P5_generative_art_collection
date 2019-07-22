@@ -15,10 +15,15 @@ Inspired by chapter 4 of the book "Nature of Code" I generated multiple particle
 ![Particle System](https://camo.githubusercontent.com/f2aa7dd747ece756667816ff20f32d1c2a73f4bd/68747470733a2f2f692e696d6775722e636f6d2f675836734c5a6e2e6a7067)
 ### 2. Voronoi
 During my research of beautiful generative arts patterns I was fascinated by the voronoi pattern, that delivers a cell-like structure. Therefore I sketched a jiggling animation with it via P5 and a voronoi library.
+![Voronoi](https://camo.githubusercontent.com/50135881aeef3594be89e3e1409b92db2015cb44/68747470733a2f2f692e696d6775722e636f6d2f3463613237306c2e6a7067)
+
 ### 3. Collatz Conjecture
 The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: If the previous term is even, the next term is one half the previous term. If the previous term is odd, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1. Based on this conjecture I used the inverted sequence and tried to visualize it. The green branches represent the even followers, the golden ones represent the odd followers. 
+![Collatz Conjecture](https://i.imgur.com/8RW3Ecv.png)
+
 ### 4. Wave clock
 The real kick was Matt Pearson's tutorial of the wave clock in his book ["Generative Art"](https://www.amazon.de/Generative-Art-Practical-Guide-Processing/dp/1935182625). Using noise and spiralling movements inspired me to create sketches that follow similar patterns. 
+[Wave clock](https://i.imgur.com/hE4actx.png)
 
 ### 5. Spiral rose
 The "Spiral rose" is one example of my inspirations after the wave clock. I played around with wavy motion via sine and cosine functions until I stumbled across this sketch. 
