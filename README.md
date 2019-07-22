@@ -17,7 +17,6 @@ You can switch between sketches via pressing the arrow keys left and right or by
 ## Background
 
 The term "Generative Art" describes a very broad category of art created by a frame of rules that oneself creates. This is nowadays common to implement via code. The central characteristic is the autnomous development of the artwork due to the frame of rules. E.g. using randomness for positioning is a sort of autonomy as opposed to static position values. This means you get a different, completely unique piece of art each time you run your script, load your page, or respond to some user interaction. During my math studies I've been so amazed by the beauty that hides behind the formulas. Grasping mathematical concepts visually has been a very fulfilling experience for me.
-Linear aesthetics
 
 I started my studies with the basic patterns from Cellular Automata to Lindenmayer Systems. But all in all my interest converged to line figures and rotation patterns. Here you can see a selection of my results.
 
