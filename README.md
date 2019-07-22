@@ -23,22 +23,30 @@ The Collatz conjecture is a conjecture in mathematics that concerns a sequence d
 
 ### 4. Wave clock
 The real kick was Matt Pearson's tutorial of the wave clock in his book ["Generative Art"](https://www.amazon.de/Generative-Art-Practical-Guide-Processing/dp/1935182625). Using noise and spiralling movements inspired me to create sketches that follow similar patterns. 
-[Wave clock](https://i.imgur.com/hE4actx.png)
+![Wave clock](https://i.imgur.com/hE4actx.png)
 
 ### 5. Spiral rose
 The "Spiral rose" is one example of my inspirations after the wave clock. I played around with wavy motion via sine and cosine functions until I stumbled across this sketch. 
+![Spiral rose](https://i.imgur.com/iVKRwHq.png)
 
 ### 6. L-Systems
 L-Systems are a typical pattern in every book or introduction once you read handbooks and starting tutorials about generative art. L stands for Lindenmayer, the one who created these patterns. The sketch is based on a recursive string generated function. In my sketch you can grow the "tree" by clicking on the canvas. 
+![https://i.imgur.com/IbvH4V4.png]
 
 ### 7. Spinning Sculpture
 I also wanted to dive into 3-dimensional sketches. Therefore I wanted to simulate the way how to mold clay in a pottery, namely by using rotation, and with lines instead of clay. This sketch was very satisfying. In my collection you can see a varriety of spinning sculptures (there's also one with sound, so turn on the volume!). I also liked to create a sort of Tron-Like-Style. 
+![spinning sculpture](https://i.imgur.com/Bek1jKD.png)
+![spinning sculpture](https://i.imgur.com/GxyL6kY.png)
+![spinning sculpture](https://i.imgur.com/giLmyh9.png)
+
 
 ### 8. Phyllotaxis
 In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. E.g. There is also the so called phyllotaxis algorithm that arranges objects in this spiral pattern in a way similar to sunflower seeds. Making use of algorithmic botany has always been a dream, ever since I studied math. And even though this sketch might not be as spectacular as other sketches, this has fulfilled one of my childhood dreams. 
+![Phyllotaxis](https://i.imgur.com/kycVEbN.png)
 
 ### 9. Square
 During this class I wanted to play around with shapes in perspective. Here I started of with sketching a cube in a normal side perspective and experimented with rotation until I was creating an unfolding effect. 
+
 
 ### 10. Tiled lines
 Tim Holman's [Generative Artistry website](https://generativeartistry.com/) is great if you want to start with classic patterns. They are so simple and yet beautiful that I had to translate one of his sketches in P5. I highly recommed his generative art speedrun talk, which is available [here](https://www.youtube.com/watch?v=4Se0_w0ISYk). 
