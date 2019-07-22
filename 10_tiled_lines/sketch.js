@@ -1,9 +1,9 @@
 let step;
 
 function setup() {
-  createCanvas(windowHeight, windowHeight);
+  createCanvas(windowWidth, windowHeight);
   step = 50;
-  frameRate(2)
+  frameRate(1)
   // put setup code here
 }
 
@@ -24,7 +24,7 @@ function draw() {
   background(250);
   stroke(50)
   strokeWeight(2)
-  for(let x = 0; x < windowHeight; x+=step){
+  for(let x = 0; x < windowWidth; x+=step){
     for (let y = 0; y < windowHeight; y+=step){
       drawLine(x,y,step,step)
     }

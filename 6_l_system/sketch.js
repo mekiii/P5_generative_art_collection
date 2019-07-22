@@ -70,12 +70,15 @@ function setup() {
   // put setup code here
 }
 
-let counter = 0;
 
 function draw() {
   turtle();
 }
-
+let counter = 0;
 function mousePressed() {
- generate();
+  counter++;
+  if(counter < 6){
+    generate();
+  }
+ 
 }

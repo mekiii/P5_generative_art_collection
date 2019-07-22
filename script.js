@@ -11,8 +11,9 @@ let urls = [
     "7.0_spinning_sculpture/index.html",
     "7.1_spinning_sculpture/index.html",
     "7.2_spinning_sculpture/index.html",
-    "8_phillotaxis/index.html",
-    "9_square/index.html"
+    "8_phyllotaxis/index.html",
+    "9_square/index.html",
+    "10_tiled_lines/index.html"
 ]
 let isVisible = false;
 
