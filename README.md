@@ -40,20 +40,19 @@ During my last semester I was fulfilling a dream for me: Visualizing aesthetic p
 I would not be able to do all these sketches without the help of [pixelkind](https://github.com/pixelkind) and so many free tutorials, inspirations and great books. If you are also interested in this topic, here are some good places to start off:
 
 ### Coding tutorials
-[P5.js](https://p5js.org/)
-[The Coding Train](https://www.youtube.com/user/shiffman)
-[Nature of Code by Daniel Shiffman](https://natureofcode.com/)
-[Generative Artistry by Tim Holman](https://generativeartistry.com/)
-[As well as his funny speedrun video](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+- [P5.js](https://p5js.org/)
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+- [Nature of Code by Daniel Shiffman](https://natureofcode.com/)
+- [Generative Artistry by Tim Holman](https://generativeartistry.com/)
+- [As well as his funny speedrun video](https://www.youtube.com/watch?v=4Se0_w0ISYk)
 
 ### Visual insights
-[Programming design systems](http://printingcode.runemadsen.com/)
-[Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)DA
-[Vera Molnar](http://www.veramolnar.com/)
-[Georg Nees](http://dada.compart-bremen.de/item/agent/15)
-[Verostko](http://www.verostko.com/)
-[So LeWitt](http://www.artnet.de/k%C3%BCnstler/sol-lewitt/)
-
-[ZKM in Karlsruhe](https://zkm.de/de)
-[Dam Gallery in Berlin](https://dam-gallery.de/)
+- [Programming design systems](http://printingcode.runemadsen.com/)
+- [Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)DA
+- [Vera Molnar](http://www.veramolnar.com/)
+- [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
+- [Verostko](http://www.verostko.com/)
+- [So LeWitt](http://www.artnet.de/k%C3%BCnstler/sol-lewitt/)
+- [ZKM in Karlsruhe](https://zkm.de/de)
+- [Dam Gallery in Berlin](https://dam-gallery.de/)
 
