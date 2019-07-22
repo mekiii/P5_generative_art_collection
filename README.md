@@ -6,7 +6,6 @@ You can see the demo [here](https://mekiii.github.io/p5_generative_art_collectio
 The installation is quite simple. After downloading or cloning the repository: Open the index.html file in a browser. 
 You can switch between sketches via pressing the arrow keys left and right or by opening the Detailtab on the bottom right and clicking the arrows. 
 
-
 ## The sketches 
 ### 0. Conways Game of Life
 The universe of the Game of Life is an infinite, two-dimensional orthogonal grid of square cells, each of which is in one of two possible states, alive or dead, (or populated and unpopulated, respectively). Every cell interacts with its eight neighbours, which are the cells that are horizontally, vertically, or diagonally adjacent.
@@ -18,20 +17,25 @@ During my research of beautiful generative arts patterns I was fascinated by the
 ### 3. Collatz Conjecture
 The Collatz conjecture is a conjecture in mathematics that concerns a sequence defined as follows: start with any positive integer n. Then each term is obtained from the previous term as follows: If the previous term is even, the next term is one half the previous term. If the previous term is odd, the next term is 3 times the previous term plus 1. The conjecture is that no matter what value of n, the sequence will always reach 1. Based on this conjecture I used the inverted sequence and tried to visualize it. The green branches represent the even followers, the golden ones represent the odd followers. 
 ### 4. Wave clock
-The real kick was Matt Pearsons tutorial of the wave clock in his book ["Generative Art"](https://www.amazon.de/Generative-Art-Practical-Guide-Processing/dp/1935182625). Using noise and spiralling movements inspired me to create sketches that follow similar patterns. 
+The real kick was Matt Pearson's tutorial of the wave clock in his book ["Generative Art"](https://www.amazon.de/Generative-Art-Practical-Guide-Processing/dp/1935182625). Using noise and spiralling movements inspired me to create sketches that follow similar patterns. 
 
 ### 5. Spiral rose
-The "Spiral rose" is one example of my inspirations after 
+The "Spiral rose" is one example of my inspirations after the wave clock. I played around with wavy motion via sine and cosine functions until I stumbled across this sketch. 
 
 ### 6. L-Systems
+L-Systems are a typical pattern in every book or introduction once you read handbooks and starting tutorials about generative art. L stands for Lindenmayer, the one who created these patterns. The sketch is based on a recursive string generated function. In my sketch you can grow the "tree" by clicking on the canvas. 
 
 ### 7. Spinning Sculpture
+I also wanted to dive into 3-dimensional sketches. Therefore I wanted to simulate the way how to mold clay in a pottery, namely by using rotation, and with lines instead of clay. This sketch was very satisfying. In my collection you can see a varriety of spinning sculptures (there's also one with sound, so turn on the volume!). I also liked to create a sort of Tron-Like-Style. 
 
 ### 8. Phyllotaxis
+In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. E.g. There is also the so called phyllotaxis algorithm that arranges objects in this spiral pattern in a way similar to sunflower seeds. Making use of algorithmic botany has always been a dream, ever since I studied math. And even though this sketch might not be as spectacular as other sketches. This is a huge milestone for me. 
 
 ### 9. Square
+During this class I wanted to play around with shapes in perspective. Here I started of with sketching a cube in a normal side perspective and experimented with rotation until I was creating an unfolding effect. 
 
 ### 10. Tiled lines
+Tim Holmans 
 
 ### 11. Typemorphing
 
