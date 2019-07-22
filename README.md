@@ -29,16 +29,16 @@ L-Systems are a typical pattern in every book or introduction once you read hand
 I also wanted to dive into 3-dimensional sketches. Therefore I wanted to simulate the way how to mold clay in a pottery, namely by using rotation, and with lines instead of clay. This sketch was very satisfying. In my collection you can see a varriety of spinning sculptures (there's also one with sound, so turn on the volume!). I also liked to create a sort of Tron-Like-Style. 
 
 ### 8. Phyllotaxis
-In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. E.g. There is also the so called phyllotaxis algorithm that arranges objects in this spiral pattern in a way similar to sunflower seeds. Making use of algorithmic botany has always been a dream, ever since I studied math. And even though this sketch might not be as spectacular as other sketches. This is a huge milestone for me. 
+In botany, phyllotaxis or phyllotaxy is the arrangement of leaves on a plant stem. E.g. There is also the so called phyllotaxis algorithm that arranges objects in this spiral pattern in a way similar to sunflower seeds. Making use of algorithmic botany has always been a dream, ever since I studied math. And even though this sketch might not be as spectacular as other sketches, this has fulfilled one of my childhood dreams. 
 
 ### 9. Square
 During this class I wanted to play around with shapes in perspective. Here I started of with sketching a cube in a normal side perspective and experimented with rotation until I was creating an unfolding effect. 
 
 ### 10. Tiled lines
-Tim Holmans 
+Tim Holman's [Generative Artistry website](https://generativeartistry.com/) is great if you want to start with classic patterns. They are so simple and yet beautiful that I had to translate one of his sketches in P5. I highly recommed his generative art speedrun talk, which is available [here](https://www.youtube.com/watch?v=4Se0_w0ISYk). 
 
 ### 11. Typemorphing
-
+Typemorphing is something I stumbled across during work. There are pretty good ways to vectorize types and play with the shape. 
 
 ## Background
 During my last semester I was fulfilling a dream for me: Visualizing aesthetic patterns via code. 
@@ -52,6 +52,7 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [Nature of Code by Daniel Shiffman](https://natureofcode.com/)
 - [Generative Artistry by Tim Holman](https://generativeartistry.com/)
 - [(as well as his funny speedrun video)](https://www.youtube.com/watch?v=4Se0_w0ISYk)
+- [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
 
 ### Visual insights
 - [Programming Design Systems (lecture by Rune Madsen)](http://printingcode.runemadsen.com/)
