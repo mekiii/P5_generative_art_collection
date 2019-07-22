@@ -72,6 +72,7 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [Programming Design Systems (lecture by Rune Madsen)](http://printingcode.runemadsen.com/)
 - [Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)
 - [Album covers from Kasuga Record](https://kasuga-records.com/releases/)
+- [Paper.js examples](http://paperjs.org/examples/)
 - [Analog Algorithm](https://www.analog-algorithm.com/)
 - [Vera Molnar](http://www.veramolnar.com/)
 - [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
