@@ -1,6 +1,9 @@
 # Generative art collection
 This a repository filled with all my explorations all around generative art via [P5](https://p5js.org/). 
-You can see the demo [here](https://mekiii.github.io/p5_generative_art_collection/). 
+
+
+## Demo
+You can try out the demo [here](https://mekiii.github.io/p5_generative_art_collection/). 
 
 ## Installation
 The installation is quite simple. After downloading or cloning the repository: 
