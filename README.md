@@ -42,7 +42,7 @@ L-Systems are a typical pattern in every book or introduction once you read hand
 ![L-Systems](https://i.imgur.com/IbvH4V4.png)
 
 ### 7. Spinning Sculpture
-I also wanted to dive into 3-dimensional sketches. Therefore I wanted to simulate the way how to mold clay in a pottery, namely by using rotation, and with lines instead of clay. This sketch was very satisfying. In my collection you can see a varriety of spinning sculptures (there's also one with sound, so turn on the volume!). I also liked to create a sort of Tron-Like-Style. 
+I also wanted to dive into 3-dimensional sketches. Therefore I wanted to simulate the way how to mold clay in a pottery, namely by using rotation, but with lines instead of clay. This sketch was very satisfying. In my collection you can see a variety of spinning sculptures (there's also one with sound, so turn on the volume!). 
 ![spinning sculpture](https://i.imgur.com/Bek1jKD.png)
 ![spinning sculpture](https://i.imgur.com/GxyL6kY.png)
 ![spinning sculpture](https://i.imgur.com/giLmyh9.png)
