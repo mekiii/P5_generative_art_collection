@@ -1,5 +1,5 @@
 # Generative art collection
-This a repository filled with all my explorations all around generative art via [P5](https://p5js.org/). 
+This a repository filled with my explorations all around generative art via [P5](https://p5js.org/). 
 
 
 ## Demo
