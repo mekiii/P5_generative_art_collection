@@ -12,7 +12,7 @@ You can try out the demo [here](https://mekiii.github.io/P5_generative_art_colle
 3. Initialize a server e.g. by the http-server package (optionally there's also the chrome web server addon):
 ```bash
 npm install -g http-server
-cd <the folder where the repository is>
+cd <#the folder where the repository is>
 http-server
 ```
 4. Then point your browser at http://localhost:8080/.
