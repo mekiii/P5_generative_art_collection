@@ -8,16 +8,15 @@ You can try out the demo [here](https://mekiii.github.io/P5_generative_art_colle
 ## Installation
 
 1. Download or clone repository
-2a. Download and install [node.js](https://nodejs.org/en/)
-
-2b. Initialize a serve e.g. by the http-server package:
+2. Download and install [node.js](https://nodejs.org/en/)
+3. Initialize a serve e.g. by the http-server package:
 ```bash
 npm install -g http-server
 cd <the folder where the repository is>
 http-server
 ```
-3. Then point your browser at http://localhost:8080/
-4. Enjoy. 
+4. Then point your browser at http://localhost:8080/
+5. Enjoy. 
 
 You can switch between sketches via pressing the arrow keys left and right or by opening the tab on the bottom right and clicking the arrows. 
 
