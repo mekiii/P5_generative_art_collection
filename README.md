@@ -91,6 +91,7 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [Analog Algorithm](https://www.analog-algorithm.com/)
 - [Vera Molnar](http://www.veramolnar.com/)
 - [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
+- [Casey Reas](http://reas.com/)
 - [Verostko](http://www.verostko.com/)
 - [So LeWitt](http://www.artnet.de/k%C3%BCnstler/sol-lewitt/)
 - [ZKM in Karlsruhe](https://zkm.de/de)
