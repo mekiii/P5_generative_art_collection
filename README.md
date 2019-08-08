@@ -88,6 +88,7 @@ I would not be able to do all these sketches without the help of [pixelkind](htt
 - [Purin Pharinchant's P5 experiments](http://purin.co/Experiments-with-P5-js)
 - [Album covers from Kasuga Record](https://kasuga-records.com/releases/)
 - [Paper.js examples](http://paperjs.org/examples/)
+- [Andrew Heumann](http://andrewheumann.com/)
 - [Analog Algorithm](https://www.analog-algorithm.com/)
 - [Vera Molnar](http://www.veramolnar.com/)
 - [Georg Nees](http://dada.compart-bremen.de/item/agent/15)
